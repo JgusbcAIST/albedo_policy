@@ -5,7 +5,7 @@
 
 ## Table of contents
 - [Sections](#sections)
-  -[Sections2](#sections2)
+   - [Sections2](#sections2)
 - [Definitions](#definitions)
 
 ## Sections
